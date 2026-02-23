@@ -421,7 +421,7 @@ const Index = () => {
                     {/* Refined Bottom Bar */}
                     <div className="mt-32 pt-10 border-t border-border/50 flex flex-col sm:flex-row items-center justify-between gap-8">
                         <p className="text-[10px] font-mono font-bold uppercase tracking-[0.3em] text-muted-foreground/40">
-                            © 2026 NepalByte Digital Creations
+                            © 2026 NepalByte
                         </p>
                         <div className="group flex items-center gap-3 px-5 py-2.5 rounded-full bg-slate-50 border border-border hover:border-accent/20 transition-colors">
                             <span className="text-[10px] font-mono font-bold uppercase tracking-widest text-muted-foreground/60">
